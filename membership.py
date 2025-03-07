@@ -1,6 +1,6 @@
+num=int(input("enter a number"))
+if num&1==0:
+    print("even")
+else:
+    print("odd")
 
-a = [1,2,3,4]
-b = a
-c = [1,2,3,4]
-print(a is b)
-print(a is c)
