@@ -3,7 +3,7 @@ def isLeapYear(year):
         return True
     return False
 
- # year = int(input("Enter the year "))
+year = int(input("Enter the year "))
 
 for i in range(100):
     if isLeapYear(i):

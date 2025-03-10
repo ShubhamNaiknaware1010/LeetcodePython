@@ -1,0 +1,100 @@
+Enter the year Leap year 0
+Not a leap year 1
+Not a leap year 2
+Not a leap year 3
+Leap year 4
+Not a leap year 5
+Not a leap year 6
+Not a leap year 7
+Leap year 8
+Not a leap year 9
+Not a leap year 10
+Not a leap year 11
+Leap year 12
+Not a leap year 13
+Not a leap year 14
+Not a leap year 15
+Leap year 16
+Not a leap year 17
+Not a leap year 18
+Not a leap year 19
+Leap year 20
+Not a leap year 21
+Not a leap year 22
+Not a leap year 23
+Leap year 24
+Not a leap year 25
+Not a leap year 26
+Not a leap year 27
+Leap year 28
+Not a leap year 29
+Not a leap year 30
+Not a leap year 31
+Leap year 32
+Not a leap year 33
+Not a leap year 34
+Not a leap year 35
+Leap year 36
+Not a leap year 37
+Not a leap year 38
+Not a leap year 39
+Leap year 40
+Not a leap year 41
+Not a leap year 42
+Not a leap year 43
+Leap year 44
+Not a leap year 45
+Not a leap year 46
+Not a leap year 47
+Leap year 48
+Not a leap year 49
+Not a leap year 50
+Not a leap year 51
+Leap year 52
+Not a leap year 53
+Not a leap year 54
+Not a leap year 55
+Leap year 56
+Not a leap year 57
+Not a leap year 58
+Not a leap year 59
+Leap year 60
+Not a leap year 61
+Not a leap year 62
+Not a leap year 63
+Leap year 64
+Not a leap year 65
+Not a leap year 66
+Not a leap year 67
+Leap year 68
+Not a leap year 69
+Not a leap year 70
+Not a leap year 71
+Leap year 72
+Not a leap year 73
+Not a leap year 74
+Not a leap year 75
+Leap year 76
+Not a leap year 77
+Not a leap year 78
+Not a leap year 79
+Leap year 80
+Not a leap year 81
+Not a leap year 82
+Not a leap year 83
+Leap year 84
+Not a leap year 85
+Not a leap year 86
+Not a leap year 87
+Leap year 88
+Not a leap year 89
+Not a leap year 90
+Not a leap year 91
+Leap year 92
+Not a leap year 93
+Not a leap year 94
+Not a leap year 95
+Leap year 96
+Not a leap year 97
+Not a leap year 98
+Not a leap year 99

@@ -1,0 +1,39 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Compile and run",
+            "type": "shell",
+            "command": "python3", // This is the command for running Python 3 on Ubuntu
+            "args": [
+                "${relativeFile}", // The current open Python file
+                "<",
+                "input.txt", // Input redirection from input.txt
+                ">",
+                "output.txt" // Output redirection to output.txt
+            ],
+            "presentation": {
+                "reveal": "never" // Keep the terminal hidden (can be changed to "always" or "silent")
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true // This is the default task for building
+            },
+            "problemMatcher": {
+                "owner": "python3", // "python" is the owner for Python errors
+                "fileLocation": [
+                    "relative",
+                    "${workspaceRoot}" // Ensures the paths are relative to the workspace folder
+                ],
+                "pattern": {
+                    "regexp": "^(.*):(\\d+):(\\d+):\\s+(warning|error):\\s+(.*)$", // Regex for matching Python errors
+                    "file": 1,
+                    "line": 2,
+                    "column": 3,
+                    "severity": 4,
+                    "message": 5
+                }
+            }
+        }
+    ]
+}
